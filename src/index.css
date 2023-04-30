@@ -1,0 +1,10 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
